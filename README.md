@@ -98,8 +98,9 @@ pip install -r requirements.txt
 ```
 
 ### 3️⃣ (Optional) Add OpenAI API key
+```bash 
 OPENAI_API_KEY=your_api_key_here
-
+```
 ### 4️⃣ Run the Streamlit app
 ```bash
 streamlit run app.py
