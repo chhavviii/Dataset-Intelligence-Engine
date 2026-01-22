@@ -90,13 +90,20 @@ AI-DATA-ANALYST/
 ```bash
 git clone https://github.com/chhavviii/ai-data-analyst-crewai.git
 cd ai-data-analyst-crewai
+```
 
+### 2️⃣ Install dependencies
+```bash
 pip install -r requirements.txt
-#
+```
+
+### 3️⃣ (Optional) Add OpenAI API key
 OPENAI_API_KEY=your_api_key_here
 
+### 4️⃣ Run the Streamlit app
+```bash
 streamlit run app.py
-
+```
 
 
 
